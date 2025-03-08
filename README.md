@@ -12,3 +12,8 @@ Ce projet concerne l'utilisation et l'adaptation des architectures YOLO pour la 
   - Tous les éléments sont inclus dans un unique fichier.
   - Détails de l'architecture expliqués.
   - Instructions pour l'adaptation à _PlantDoc_.
+
+- **generate_bbox** :
+  - Script qui à permis de générer les XML pour la base plantdoc.
+
+- **La présentation utilisé lors de l'oral format pdf et odt** 
